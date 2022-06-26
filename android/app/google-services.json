@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "384706341215",
+    "project_id": "cepfinans-827ac",
+    "storage_bucket": "cepfinans-827ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384706341215:android:26340f746723f32eb4eeea",
+        "android_client_info": {
+          "package_name": "com.example.cepfinans"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384706341215-hrq6ttkoo78ea4tn2jdlp6mmicpr786h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxGO4hoEqpWkdaBD9fCQQWgGdkS0gAXrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384706341215-hrq6ttkoo78ea4tn2jdlp6mmicpr786h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
